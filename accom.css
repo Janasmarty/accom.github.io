@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    background-color: Black;
+    color: white;
+}
+
+.container-fluid {
+    padding: 30px;
+}
+
+.line {
+    background-color: yellow;
+}
+
+.card-container {
+    width: 80%;
+    box-shadow: 0 0 25px hotpink,
+        0 0 25px hotpink;
+}
+
+.h1 {
+    text-shadow: 0 0 5px hotpink,
+        0 0 25px hotpink;
+}
+
+.h2 {
+    font-size: 30px;
+    text-shadow: 0 0 5px red,
+        0 0 25px red;
+}
+
+.p1 {
+    font-size: 23px;
+    margin-left: 80px;
+}
+
+.p {
+    font-size: 25px;
+    text-shadow: 0 0 5px cyan,
+        0 0 25px cyan;
+}
+
+.p2 {
+    font-size: 20px;
+}
+
+.h4 {
+    text-shadow: 0 0 5px magenta,
+        0 0 25px magenta;
+}
+
+.icon {
+
+    font-size: 60px;
+}
+
+
+
+.iconshadow {
+    text-shadow: 0 0 5px cyan,
+        0 0 25px cyan;
+}
